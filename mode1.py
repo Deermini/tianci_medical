@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 14 19:21:37 2018
-
-King
-"""
 
 import time
 import datetime
